@@ -1,8 +1,5 @@
 
 # Instagram Clone UI
-
-![Instagram Clone UI](https://via.placeholder.com/800x400?text=Screenshot+of+App)
-
 An elegant **Instagram Clone UI** built using **Flutter**, showcasing modern UI components and seamless scroll layouts. This project is a perfect starting point for anyone looking to create a social media app or improve their Flutter skills.
 
 ---
